@@ -1,0 +1,20 @@
+{
+  "alchemyApiKey": "INSERT_YOUR_API_KEY_HERE",
+  "oracles": [
+    {
+      "name": "ETH/USD",
+      "adderss": "0x37bC7498f4FF12C19678ee8fE19d713b87F6a9e6",
+      "precision": 8
+    },
+    {
+      "name": "USDT/ETH",
+      "adderss": "0x7De0d6fce0C128395C488cb4Df667cdbfb35d7DE",
+      "precision": 18
+    },
+    {
+      "name": "LINK/ETH",
+      "adderss": "0xbba12740DE905707251525477bAD74985DeC46D2",
+      "precision": 18
+    }
+  ]
+}

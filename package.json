@@ -1,0 +1,14 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "description": "ITMO blockchain HW3",
+  "main": "scripts/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilya Sibiryakov",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
